@@ -1,0 +1,6 @@
+﻿  Assembly project 6 part 2.cpp
+c:\users\doc\documents\visual studio 2015\projects\assembly project 6 part 2\assembly project 6 part 2\assembly project 6 part 2.cpp(20): warning C4405: 'test': identifier is reserved word
+c:\users\doc\documents\visual studio 2015\projects\assembly project 6 part 2\assembly project 6 part 2\assembly project 6 part 2.cpp(51): warning C4405: 'test': identifier is reserved word
+c:\users\doc\documents\visual studio 2015\projects\assembly project 6 part 2\assembly project 6 part 2\assembly project 6 part 2.cpp(38): warning C4102: 'false1': unreferenced label
+  Assembly project 6 part 2.vcxproj -> c:\users\doc\documents\visual studio 2015\Projects\Assembly project 6 part 2\Debug\Assembly project 6 part 2.exe
+  Assembly project 6 part 2.vcxproj -> c:\users\doc\documents\visual studio 2015\Projects\Assembly project 6 part 2\Debug\Assembly project 6 part 2.pdb (Full PDB)
